@@ -1,0 +1,12 @@
+{
+  "geode": "v5.11.2",
+  "gd": {
+    "ios": "2.2081"
+  },
+  "id": "clyde.unlisted-explorer",
+  "name": "Unlisted Explorer",
+  "version": "v0.1.0",
+  "developer": "Clyde",
+  "description": "Starter UI for exploring publicly available Geometry Dash creator data.",
+  "dependencies": {}
+}
